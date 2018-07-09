@@ -6,7 +6,7 @@ public class PropertyInjectedController {
 
     public GreetingServiceImpl greetingService;
 
-    String sayHello() {
+    String sayGreetings() {
         return greetingService.sayGreetings();
     }
 }
