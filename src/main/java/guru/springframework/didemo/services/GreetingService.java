@@ -2,5 +2,5 @@ package guru.springframework.didemo.services;
 
 public interface GreetingService {
 
-    String sayGreetings();
+    public String sayGreetings();
 }
