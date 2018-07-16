@@ -1,4 +1,4 @@
-package guru.services;
+package guru.springframework.didemo.services;
 
 /**
  * Created by jt on 5/24/17.
