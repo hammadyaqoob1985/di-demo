@@ -1,7 +1,5 @@
 package guru.springframework.didemo.services;
 
-import guru.springframework.didemo.services.*;
-
 /**
  * Created by jt on 5/25/17.
  */
